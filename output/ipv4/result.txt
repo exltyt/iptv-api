@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2025-09-02 06:13:40,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-02 18:15:22,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+CCTV-1,http://113.26.202.52:1299/tsfile/live/0001_1.m3u8
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
-CCTV-2,http://www.cdnstv.com:6398/hls/2/index.m3u8
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
 CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
@@ -20,24 +20,31 @@ CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
-CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+广东卫视,http://113.26.202.52:1299/tsfile/live/0125_1.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
+湖北卫视,http://113.26.202.52:1299/tsfile/live/0132_1.m3u8
+黑龙江卫视,http://113.26.202.52:1299/tsfile/live/0143_1.m3u8
+安徽卫视,http://113.26.202.52:1299/tsfile/live/0130_1.m3u8
+东方卫视,http://113.26.202.52:1299/tsfile/live/0107_1.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江苏卫视,http://113.26.202.52:1299/tsfile/live/0127_1.m3u8
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
+辽宁卫视,http://113.26.202.52:1299/tsfile/live/0121_1.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 陕西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
+陕西卫视,http://111.43.126.240:9003/hls/68/index.m3u8
 
 ☘️广东频道,#genre#
 
@@ -59,13 +66,14 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
-CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -74,8 +82,10 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
+IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🎥咪咕直播,#genre#
@@ -84,5 +94,5 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
