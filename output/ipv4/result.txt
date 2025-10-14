@@ -1,14 +1,13 @@
 🕘️更新时间,#genre#
-2025-10-14 06:14:36,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-14 18:16:49,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://61.149.251.202:4022/rtp/239.3.1.173:8001
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
-CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
+CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 
@@ -46,8 +45,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -57,16 +56,15 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
+星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
 五星体育,http://61.173.162.228:4022/rtp/239.45.3.210:5140
-体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 快乐垂钓,http://111.196.133.168:8012/rtp/239.3.1.164:8001
