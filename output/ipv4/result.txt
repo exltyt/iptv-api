@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-29 06:14:00,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8
+2025-10-29 18:15:57,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 📺央视频道,#genre#
-CCTV-2,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8
-CCTV-3,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 💰央视付费频道,#genre#
@@ -22,6 +20,7 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+翡翠台,http://51.89.166.17:3002/index.php?id=jade_twn
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
