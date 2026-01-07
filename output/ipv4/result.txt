@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-07 18:17:48,http://112.254.55.106:22222/rtp/239.253.254.110:8000
+2026-01-08 06:14:56,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 
 📺央视频道,#genre#
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
@@ -33,7 +33,6 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
