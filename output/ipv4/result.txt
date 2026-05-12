@@ -1,40 +1,23 @@
 🕘️更新时间,#genre#
-2026-05-12 19:52:33,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8
+2026-05-13 06:54:11,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8
-CCTV-9,http://183.223.157.33:9901/tsfile/live/0009_1.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=73b69ea221be0bd00d6e465f10653101
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://183.223.157.33:9901/tsfile/live/0010_1.m3u8
-CCTV-13,http://183.223.157.33:9901/tsfile/live/0013_1.m3u8
-CETV-2,https://iptv.catvod.com/catvod?id=CETV2&line=5
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://183.223.157.33:9901/tsfile/live/0019_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-河北卫视,http://101.66.198.102:9901/tsfile/live/0117_1.m3u8
-河北卫视,http://101.66.198.224:9901/tsfile/live/0117_1.m3u8
-河北卫视,http://101.66.198.233:9901/tsfile/live/0117_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://101.66.198.233:9901/tsfile/live/0116_1.m3u8
-江苏卫视,http://101.66.198.102:9901/tsfile/live/0017_1.m3u8
-江苏卫视,http://101.66.198.233:9901/tsfile/live/0017_1.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://101.66.198.224:9901/tsfile/live/0131_1.m3u8
-四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8
-四川卫视,http://101.66.198.102:9901/tsfile/live/0123_1.m3u8
-云南卫视,http://101.66.198.233:9901/tsfile/live/0119_1.m3u8
 
 ☘️广东频道,#genre#
 
@@ -45,9 +28,9 @@ CETV-2,https://iptv.catvod.com/catvod?id=CETV2&line=5
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
